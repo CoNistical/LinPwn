@@ -42,4 +42,3 @@ Another LinPeas, just a little less verbose.
 - [GTFOBins](https://gtfobins.github.io)
 - [Linux Exploit Suggester](https://github.com/The-Z-Labs/linux-exploit-suggester)
 - [Exploit-DB](https://www.exploit-db.com)
-This script is intended for authorized security assessments and educational purposes only. Use it responsibly and only on systems you own or have explicit permission to test.
