@@ -34,7 +34,7 @@ Another LinPeas, just a little less verbose.
 
 ## Usage
 ```bash
-./magiclinpwn.sh
+./linpwn.sh
 ```
 ## References
 
